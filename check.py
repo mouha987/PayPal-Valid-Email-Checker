@@ -1,10 +1,10 @@
-print("[+]PayPal Valid Email Checker by BL4CKP4N7H3R.PH[+]")
+print("[+]chase Valid Email Checker by mouha987[+]")
 import requests
 live = open('PayPalLive.txt', 'w')
 die = open('PayPalDie.txt', 'w')
-Checked = "Checked by BL4CKP4N7H3R.PH Valid Email Checker"
+Checked = "Checked by mouha987 Valid Email Checker"
 print("_"*50)
-print"PayPal Valid Email Checker by BL4CKP4N7H3R.PH"
+print"PayPal Valid Email Checker by mouha987"
 print"I dont't Accept any Responsibility for any illegal usage!"
 print("_"*55)
 print" "
